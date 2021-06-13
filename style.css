@@ -104,23 +104,23 @@ footer {
   text-align: center;
   font-size: 125%;
 }
-.image-container { display: flex;
+.images-container { display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;}
 
-.image-container img { 
+.images-container img { 
   border: 5px solid #f7f474;
   border-radius: 8px;
   margin-bottom: 10px;
 }
 
-.image-container img:first-of-type {
+.images-container img:first-of-type {
   border: 5px solid #ef6f6c;
   border-radius: 8px;
   margin-bottom: 10px;
 }
-.image-container img:last-of-type {
+.images-container img:last-of-type {
   border: 5px solid #75db68;
   border-radius: 8px;} 
 
@@ -205,7 +205,6 @@ h2.news-title {
   margin-bottom: 1em;
 }
 
-/*Membership*/
 
 .membership {
   text-align: center;
